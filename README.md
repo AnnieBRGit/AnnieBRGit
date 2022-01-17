@@ -29,9 +29,9 @@ Välkommen till min Github sida. Här publicerar jag huvudsakligen olika projekt
 
 Nedan finner ni ett urval av olika projekt som jag har jobbat med, länk öppnas i ett nytt fönster: 
 
--   ![Joke API](https://anniebrgit.github.io/JokeAPI_Project/)
--   ![Ladybug Gym](https://anniebrgit.github.io/MS-Project-1/)
--   ![Mortensen & Nielsen](https://anniebrgit.github.io/WebbutvecklingI-Projekt/)
+-   [Joke API](https://anniebrgit.github.io/JokeAPI_Project/)
+-   [Ladybug Gym](https://anniebrgit.github.io/MS-Project-1/)
+-   [Mortensen & Nielsen](https://anniebrgit.github.io/WebbutvecklingI-Projekt/)
 
 
 ## Kontakt
