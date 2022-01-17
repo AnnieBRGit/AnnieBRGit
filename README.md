@@ -22,8 +22,15 @@ Välkommen till min Github sida. Här publicerar jag huvudsakligen olika projekt
 
 - Student på Mittuniversitetet, program för Webbutveckling. 
 - Jag kan programspråk HTML, CSS, JavaScript, samt de mest vanliga ramverk kopplade till dessa. 
-- Just nu studerar jag databaser (MySQL och MariaDB), samt programspråk PHP och SQL. 
+- Just nu studerar jag databaser (MySQL och MariaDB), samt programspråk PHP och SQL (kurser DT003G och DT093G). 
+  ⋅⋅⋅Jag uppdaterar denna sida då och då med information om nya kurser som jag tar⋅⋅⋅
 
+
+## Kurser som jag har tagit:
+1. DT057G - Webbutveckling I
+2. DT084G - Introduktion till programmering i JavaScript
+3. DT068G - Webbanvändbarhet
+4. DT163G - Digital bildbehandling för webb 
 
 ## Projekt
 
@@ -36,4 +43,4 @@ Nedan finner ni ett urval av olika projekt som jag har jobbat med, länk öppnas
 
 ## Kontakt
 
-Ta gärna kontakt vid eventuella frågor!
+Ta gärna _kontakt_ vid eventuella frågor!
