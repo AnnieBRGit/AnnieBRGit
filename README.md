@@ -24,7 +24,7 @@ Välkommen till min Github sida. Här publicerar jag huvudsakligen olika projekt
 - Jag kan programspråk HTML, CSS, JavaScript, samt de mest vanliga ramverk kopplade till dessa. 
 - Just nu studerar jag databaser (MySQL och MariaDB), samt programspråk PHP och SQL (kurser DT003G och DT093G). 
 
-   ⋅⋅⋅Jag uppdaterar denna sida då och då med information om nya kurser som jag tar. Under tiden ta gärna en titt nedan, där finns mer information om vilka kurser jag har redan tagit och avslutat. ⋅⋅⋅
+   Jag uppdaterar denna sida då och då med information om nya kurser som jag tar. Under tiden ta gärna en titt nedan, där finns mer information om vilka kurser jag har redan tagit och avslutat.   
 
 
 ## Kurser som jag har tagit:
