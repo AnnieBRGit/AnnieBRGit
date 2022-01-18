@@ -39,7 +39,7 @@ Nedan finner ni ett urval av olika projekt som jag har jobbat med, länk öppnas
 
 -   [Joke API](https://anniebrgit.github.io/JokeAPI_Project/)
 -   [Ladybug Gym](https://anniebrgit.github.io/MS-Project-1/)
--   [Mortensen & Nielsen](https://anniebrgit.github.io/WebbutvecklingI-Projekt/)
+-   [Mortensen & Nielsen](http://studenter.miun.se/~anbr2106/dt057g/WebbutvecklingI-Projekt-mainFINAL/)
 
 
 ## Kontakt
