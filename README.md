@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hej och välkommen till min sida! 👋
 
-Välkommen till min Github sida. Här publicerar jag huvudsakligen olika projekt som är relaterade till utbildningsprogrammet Webbutveckling på Mittuniversitetet. Det finns även en del privata projekt. 
+Välkommen till min Github sida. 
 
 ## Om
 
-- Student på Mittuniversitetet, program för Webbutveckling. 
 - Jag kan programspråk HTML, CSS, JavaScript, samt de mest vanliga ramverk kopplade till dessa. 
 - Just nu studerar jag databaser (MySQL och MariaDB), samt programspråk PHP och SQL (kurser DT003G och DT093G). 
 
@@ -33,15 +32,7 @@ Välkommen till min Github sida. Här publicerar jag huvudsakligen olika projekt
 3. DT068G - Webbanvändbarhet
 4. DT163G - Digital bildbehandling för webb 
 
-## Projekt
-
-Nedan finner ni ett urval av olika projekt som jag har jobbat med, länk öppnas i ett nytt fönster: 
-
--   [Joke API](https://anniebrgit.github.io/JokeAPI_Project/)
--   [Ladybug Gym](https://anniebrgit.github.io/MS-Project-1/)
--   [Mortensen & Nielsen](http://studenter.miun.se/~anbr2106/dt057g/WebbutvecklingI-Projekt-mainFINAL/)
 
 
-## Kontakt
 
-Ta gärna _kontakt_ vid eventuella frågor!
+
