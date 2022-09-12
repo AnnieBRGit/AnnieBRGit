@@ -14,23 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hej och välkommen till min sida! 👋
+# Hi and welcome 👋
 
-Välkommen till min Github sida. 
+Welcome to my Github pages. 
 
-## Om
+## About
 
-- Jag kan programspråk HTML, CSS, JavaScript, samt de mest vanliga ramverk kopplade till dessa. 
-- Just nu studerar jag databaser (MySQL och MariaDB), samt programspråk PHP och SQL (kurser DT003G och DT093G). 
-
-   Jag uppdaterar denna sida då och då med information om nya kurser som jag tar. Under tiden ta gärna en titt nedan, där finns mer information om vilka kurser jag har redan tagit och avslutat.   
+- Student (Informatics / Information Systems IS) at Mid Sweden University.
+- Adding, developing and participating in some smaller projects here, mainly for fun. 
 
 
-## Kurser som jag har tagit:
-1. DT057G - Webbutveckling I
-2. DT084G - Introduktion till programmering i JavaScript
-3. DT068G - Webbanvändbarhet
-4. DT163G - Digital bildbehandling för webb 
+## Previous and on-going courses:
+1. DT057G - Web Development I
+2. DT084G - Intro to JavaScript
+3. DT068G - Usability
+4. DT163G - Digital design for web
+5. IK099G - Introduction to Informatics
+6. IK006G - Usercentered software development
 
 
 
